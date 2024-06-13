@@ -1,1 +1,1 @@
-# (https://random-facts-rohan.netlify.app/)
+# https://random-facts-rohan.netlify.app/
